@@ -1,1 +1,0 @@
-# jamesgolin.github.io

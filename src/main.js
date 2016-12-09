@@ -5,6 +5,6 @@ import App from './app.jsx'
 document.addEventListener('DOMContentLoaded', () => {
     ReactDOM.render(
         <App />,
-        document.getElementByID("root")
+        document.getElementById("root")
     );
 });

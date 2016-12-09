@@ -67,8 +67,8 @@
 
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-	document.addEventListener('DOMComponentLoaded', function () {
-	    _react2.default.render(_react2.default.createElement(_app2.default, null), document.getElementById("root"));
+	document.addEventListener('DOMContentLoaded', function () {
+	    _reactDom2.default.render(_react2.default.createElement(_app2.default, null), document.getElementById("root"));
 	});
 
 /***/ },

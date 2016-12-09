@@ -4,7 +4,7 @@ import App from './app.js'
 
 document.addEventListener('DOMContentLoaded', function() {
     ReactDOM.render(
-        React.createElement(App),
+        <App />,
         document.getElementById("root")
     );
 });

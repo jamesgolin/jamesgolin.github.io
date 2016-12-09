@@ -19,7 +19,9 @@
   "homepage": "https://github.com/jamesgolin/jamesgolin.github.io#readme",
   "dependencies": {
     "babel-core": "^6.20.0",
+    "babel-loader": "^6.2.9",
     "babel-preset-es2015": "^6.18.0",
-    "babel-preset-react": "^6.16.0"
+    "babel-preset-react": "^6.16.0",
+    "webpack": "^1.14.0"
   }
 }

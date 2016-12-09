@@ -67,7 +67,7 @@
 
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-	_reactDom2.default.render(_react2.default.createElement(_app2.default, null), document.getElementById("root"));
+	_reactDom2.default.render(_react2.default.CreateComponent(_app2.default), document.getElementById("root"));
 
 /***/ },
 /* 2 */
